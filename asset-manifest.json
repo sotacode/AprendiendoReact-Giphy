@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AprendiendoReact-Giphy/static/css/main.b9f8c239.chunk.css",
+    "main.js": "/AprendiendoReact-Giphy/static/js/main.f160f7e9.chunk.js",
+    "main.js.map": "/AprendiendoReact-Giphy/static/js/main.f160f7e9.chunk.js.map",
+    "runtime-main.js": "/AprendiendoReact-Giphy/static/js/runtime-main.807ac899.js",
+    "runtime-main.js.map": "/AprendiendoReact-Giphy/static/js/runtime-main.807ac899.js.map",
+    "static/js/2.86e64d03.chunk.js": "/AprendiendoReact-Giphy/static/js/2.86e64d03.chunk.js",
+    "static/js/2.86e64d03.chunk.js.map": "/AprendiendoReact-Giphy/static/js/2.86e64d03.chunk.js.map",
+    "index.html": "/AprendiendoReact-Giphy/index.html",
+    "static/css/main.b9f8c239.chunk.css.map": "/AprendiendoReact-Giphy/static/css/main.b9f8c239.chunk.css.map",
+    "static/js/2.86e64d03.chunk.js.LICENSE.txt": "/AprendiendoReact-Giphy/static/js/2.86e64d03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.807ac899.js",
+    "static/js/2.86e64d03.chunk.js",
+    "static/css/main.b9f8c239.chunk.css",
+    "static/js/main.f160f7e9.chunk.js"
+  ]
+}
